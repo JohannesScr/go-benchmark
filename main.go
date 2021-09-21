@@ -16,8 +16,6 @@ const s = "We ask ourselves, who am I to be brilliant, gorgeous, talented, " +
 	"the same. As we are liberated from our own fear, our presence " +
 	"automatically liberates others. - Marianne Williamson"
 
-var xs []string
-
 func main() {
 	xs := strings.Split(s, " ")
 
